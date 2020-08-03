@@ -1,0 +1,7 @@
+E:\dotnetclasses\frontend\DotnetConsoleApp\Inheriance\Inheriance\bin\Debug\Inheriance.exe.config
+E:\dotnetclasses\frontend\DotnetConsoleApp\Inheriance\Inheriance\bin\Debug\Inheriance.exe
+E:\dotnetclasses\frontend\DotnetConsoleApp\Inheriance\Inheriance\bin\Debug\Inheriance.pdb
+E:\dotnetclasses\frontend\DotnetConsoleApp\Inheriance\Inheriance\obj\Debug\Inheriance.csprojAssemblyReference.cache
+E:\dotnetclasses\frontend\DotnetConsoleApp\Inheriance\Inheriance\obj\Debug\Inheriance.csproj.CoreCompileInputs.cache
+E:\dotnetclasses\frontend\DotnetConsoleApp\Inheriance\Inheriance\obj\Debug\Inheriance.exe
+E:\dotnetclasses\frontend\DotnetConsoleApp\Inheriance\Inheriance\obj\Debug\Inheriance.pdb
