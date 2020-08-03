@@ -1,0 +1,7 @@
+E:\dotnetclasses\frontend\DotnetConsoleApp\InheritanceAss\InheritanceAss\obj\Debug\InheritanceAss.csprojAssemblyReference.cache
+E:\dotnetclasses\frontend\DotnetConsoleApp\InheritanceAss\InheritanceAss\obj\Debug\InheritanceAss.csproj.CoreCompileInputs.cache
+E:\dotnetclasses\frontend\DotnetConsoleApp\InheritanceAss\InheritanceAss\bin\Debug\InheritanceAss.exe.config
+E:\dotnetclasses\frontend\DotnetConsoleApp\InheritanceAss\InheritanceAss\bin\Debug\InheritanceAss.exe
+E:\dotnetclasses\frontend\DotnetConsoleApp\InheritanceAss\InheritanceAss\bin\Debug\InheritanceAss.pdb
+E:\dotnetclasses\frontend\DotnetConsoleApp\InheritanceAss\InheritanceAss\obj\Debug\InheritanceAss.exe
+E:\dotnetclasses\frontend\DotnetConsoleApp\InheritanceAss\InheritanceAss\obj\Debug\InheritanceAss.pdb

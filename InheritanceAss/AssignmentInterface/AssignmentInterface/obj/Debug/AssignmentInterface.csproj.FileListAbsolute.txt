@@ -1,0 +1,7 @@
+E:\dotnetclasses\frontend\DotnetConsoleApp\InheritanceAss\AssignmentInterface\AssignmentInterface\bin\Debug\AssignmentInterface.exe.config
+E:\dotnetclasses\frontend\DotnetConsoleApp\InheritanceAss\AssignmentInterface\AssignmentInterface\bin\Debug\AssignmentInterface.exe
+E:\dotnetclasses\frontend\DotnetConsoleApp\InheritanceAss\AssignmentInterface\AssignmentInterface\bin\Debug\AssignmentInterface.pdb
+E:\dotnetclasses\frontend\DotnetConsoleApp\InheritanceAss\AssignmentInterface\AssignmentInterface\obj\Debug\AssignmentInterface.csprojAssemblyReference.cache
+E:\dotnetclasses\frontend\DotnetConsoleApp\InheritanceAss\AssignmentInterface\AssignmentInterface\obj\Debug\AssignmentInterface.csproj.CoreCompileInputs.cache
+E:\dotnetclasses\frontend\DotnetConsoleApp\InheritanceAss\AssignmentInterface\AssignmentInterface\obj\Debug\AssignmentInterface.exe
+E:\dotnetclasses\frontend\DotnetConsoleApp\InheritanceAss\AssignmentInterface\AssignmentInterface\obj\Debug\AssignmentInterface.pdb
