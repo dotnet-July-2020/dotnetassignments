@@ -1,0 +1,7 @@
+E:\dotnetclasses\frontend\dotnetassignment\InterfaceAssignment\InterfaceAssignment\bin\Debug\InterfaceAssignment.exe.config
+E:\dotnetclasses\frontend\dotnetassignment\InterfaceAssignment\InterfaceAssignment\bin\Debug\InterfaceAssignment.exe
+E:\dotnetclasses\frontend\dotnetassignment\InterfaceAssignment\InterfaceAssignment\bin\Debug\InterfaceAssignment.pdb
+E:\dotnetclasses\frontend\dotnetassignment\InterfaceAssignment\InterfaceAssignment\obj\Debug\InterfaceAssignment.csprojAssemblyReference.cache
+E:\dotnetclasses\frontend\dotnetassignment\InterfaceAssignment\InterfaceAssignment\obj\Debug\InterfaceAssignment.csproj.CoreCompileInputs.cache
+E:\dotnetclasses\frontend\dotnetassignment\InterfaceAssignment\InterfaceAssignment\obj\Debug\InterfaceAssignment.exe
+E:\dotnetclasses\frontend\dotnetassignment\InterfaceAssignment\InterfaceAssignment\obj\Debug\InterfaceAssignment.pdb
